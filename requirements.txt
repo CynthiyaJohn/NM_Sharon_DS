@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
 nltk
 textblob
 matplotlib
+=======
+pandas
+numpy
+scikit-learn
+nltk
+textblob
+matplotlib
+>>>>>>> 3771390 (Initial commit - NM Sharon DS project)
